@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771740905581,
+      "tag": "0000_quick_cardiac",
+      "breakpoints": true
+    }
+  ]
+}
